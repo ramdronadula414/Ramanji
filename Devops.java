@@ -1,4 +1,4 @@
-public class DevOps {
+public class Devops {
   public static void main(Strings[] args){
     System.out.println("Hellow world");
   }
